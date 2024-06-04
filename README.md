@@ -19,7 +19,7 @@ in relation to expenses across various business segments. Despite lower investme
 resulting in a negative ROI of (350.5). While ROI remained negative in subsequent years due to continued net losses, there is potential for improvement and a 
 pathway to profitability with effective management strategies.
 
-<Image>
+![image_info](Images/ROI.png)
 
 ## Expense Trends 
 The expense trend over the past three years has shown an annual increase, with fluctuations. In 2022, there was a significant surge in goodwill impairment expenses, 
@@ -27,7 +27,7 @@ totaling $675,346, compared to $117,702 in 2021 and $105,136 in 2023. Depreciati
 primarily due to the full amortization of certain intangible assets acquired in previous years. Acquisition-related costs include expenses related to planned, 
 finalized, or terminated acquisitions. Net interest expense increased from $107.0 million in 2022 to $152.9 million in 2023, largely due to rising interest rates 
 and increased borrowing on the Securitization Facility.
-<image>
+![image_info](Images/Expense_Trend.png)
 
 ## Recommendation 
 Based on the challenges outlined for Aveanna Healthcare, several recommendations can be proposed to address these issues and improve the company's financial stability:
